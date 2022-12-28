@@ -51,7 +51,7 @@
     输入：参数长度设置成24，斜率设置成0
     归因：TradingView 内置
     设置：<img decoding="async" src="./Trendlines With Breaks.png"
-    ![alt Trendlines With Breaks](/exchange/Trendlines With Breaks.png "可选标题")
+![aaa](https://raw.githubusercontent.com/AlreadyM/blog/master/publicTrendlines%20With%20Breaks%20%5BLUX%5D.png)
     名称：Heatmap Volume [xdecow]
     输入：默认
     归因：TradingView 内置
@@ -61,5 +61,7 @@
     归因：TradingView 内置
 
 5、传说不亏钱的马丁格尔策略，做量化交易有无禁忌，让交易变简单的斩龙机器[Link](https://www.youtube.com/watch?v=ei9USkMnb6c)
-
+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
+Trendlines With Breaks [LUX].png
+Trendlines With Breaks [LUX].png
 
